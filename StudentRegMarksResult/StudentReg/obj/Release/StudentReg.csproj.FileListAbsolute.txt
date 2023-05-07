@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\bin\Release\StudentReg.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\bin\Release\StudentReg.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\bin\Release\StudentReg.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.Form1.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\StudentRegMarksResult\StudentReg\obj\Release\StudentReg.pdb

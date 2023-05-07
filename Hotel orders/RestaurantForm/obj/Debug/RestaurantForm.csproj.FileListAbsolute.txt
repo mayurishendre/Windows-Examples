@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\bin\Debug\RestaurantForm.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\bin\Debug\RestaurantForm.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\bin\Debug\RestaurantForm.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.frmHotelOrders.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Hotel orders\RestaurantForm\obj\Debug\RestaurantForm.pdb

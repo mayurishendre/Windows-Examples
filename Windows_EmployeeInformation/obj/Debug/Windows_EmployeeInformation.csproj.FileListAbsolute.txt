@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\bin\Debug\Windows_EmployeeInformation.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\bin\Debug\Windows_EmployeeInformation.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\bin\Debug\Windows_EmployeeInformation.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.Form1.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_EmployeeInformation\obj\Debug\Windows_EmployeeInformation.pdb

@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\bin\Debug\WindowsCalculater.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\bin\Debug\WindowsCalculater.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\bin\Debug\WindowsCalculater.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.frmCalculator.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsCalculater\obj\Debug\WindowsCalculater.pdb

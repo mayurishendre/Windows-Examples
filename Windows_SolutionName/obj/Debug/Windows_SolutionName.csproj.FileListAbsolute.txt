@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\bin\Debug\Windows_SolutionName.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\bin\Debug\Windows_SolutionName.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\bin\Debug\Windows_SolutionName.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\obj\Debug\Windows_SolutionName.Form1.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\obj\Debug\Windows_SolutionName.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\obj\Debug\Windows_SolutionName.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\obj\Debug\Windows_SolutionName.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\obj\Debug\Windows_SolutionName.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_SolutionName\obj\Debug\Windows_SolutionName.pdb

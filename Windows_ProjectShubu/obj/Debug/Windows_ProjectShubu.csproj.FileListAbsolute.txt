@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\bin\Debug\Windows_ProjectShubu.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\bin\Debug\Windows_ProjectShubu.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\bin\Debug\Windows_ProjectShubu.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.frm1.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.AdminPage.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.StudentPage.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_ProjectShubu\obj\Debug\Windows_ProjectShubu.StudInformation.resources

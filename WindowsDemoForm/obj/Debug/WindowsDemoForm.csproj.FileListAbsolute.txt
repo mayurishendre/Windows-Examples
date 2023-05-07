@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\bin\Debug\WindowsDemoForm.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\bin\Debug\WindowsDemoForm.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\bin\Debug\WindowsDemoForm.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.frm1.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\WindowsDemoForm\obj\Debug\WindowsDemoForm.pdb

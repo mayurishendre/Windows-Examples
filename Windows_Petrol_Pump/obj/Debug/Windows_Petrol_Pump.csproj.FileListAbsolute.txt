@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\bin\Debug\Windows_Petrol_Pump.exe.config
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\bin\Debug\Windows_Petrol_Pump.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\bin\Debug\Windows_Petrol_Pump.pdb
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.frmPetrolPump.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.Properties.Resources.resources
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.exe
+C:\Users\ASUS\Desktop\xceller\WindowsFormExample\Windows_Petrol_Pump\obj\Debug\Windows_Petrol_Pump.pdb
